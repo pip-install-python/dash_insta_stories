@@ -1,0 +1,11 @@
+include dash_insta_stories/dash_insta_stories.min.js
+include dash_insta_stories/dash_insta_stories.min.js.map
+include dash_insta_stories/async-*.js
+include dash_insta_stories/async-*.js.map
+include dash_insta_stories/*-shared.js
+include dash_insta_stories/*-shared.js.map
+include dash_insta_stories/metadata.json
+include dash_insta_stories/package-info.json
+include README.md
+include LICENSE
+include package.json

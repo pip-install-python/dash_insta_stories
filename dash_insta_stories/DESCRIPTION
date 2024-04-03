@@ -1,0 +1,13 @@
+Package: dashInstaStories
+Title: react insta stories for dash
+Version: 0.0.1
+Description: react insta stories for dash
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/pip-install-python/dash-insta-stories
+BugReports: https://github.com/pip-install-python/dash-insta-stories/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
